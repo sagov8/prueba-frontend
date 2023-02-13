@@ -4,14 +4,13 @@ This project was bootstrapped with Vite and this uses Node v16.16.0. Later insta
 # Available Scripts
 In the project directory, you can run:
 
-# npm run dev
+## npm run dev
 Runs the app in the development mode.
 Open http://localhost:5173 to view it in your browser.
 
-# The page will reload when you make changes.
-You may also see any lint errors in the console.
+The page will reload when you make changes.
 
-# npm run build
+## npm run build
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -20,5 +19,5 @@ Your app is ready to be deployed!
 
 See the section about deployment for more information.
 
-# npm run preview
+## npm run preview
 Locally preview production build.
