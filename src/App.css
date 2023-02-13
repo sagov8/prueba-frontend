@@ -1,0 +1,10 @@
+body {
+    margin:0;
+    padding:0;
+    background-color: #ede0d6;
+    background-image: url("./assets/BackgroundTop.png"), url("./assets/BackgroundBottom.png") ;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-position: top, bottom;
+    background-size: 100%, 100%;
+}
+
