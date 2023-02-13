@@ -133,6 +133,7 @@ export default function ShoppingCart() {
                               onClick={() =>
                                 dispatch(decreaseItemQuantity(data.id))
                               }
+                              disabled={data.quantity >= 1? false: true}
                             >
                               <RemoveOutlinedIcon />
                             </IconButton>

@@ -9,7 +9,7 @@ const sizes = [
   'Extra Large'
 ]
 
-export default function SizeSelect(item) {
+export default function SizeSelect() {
   const [value, setValue] = useState(sizes[0]);
 
   return (
